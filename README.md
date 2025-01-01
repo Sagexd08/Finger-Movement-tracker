@@ -1,4 +1,6 @@
-#Finger Movement Tracker
+Finger Movement Tracker
+
+
 The Finger Movement Tracker is a Python-based project that utilizes TensorFlow and OpenCV to track and recognize finger gestures in real time. By identifying and analyzing key pivot points on the fingers, this system can be used to create interactive applications for device control, virtual/augmented reality (VR/AR) environments, gaming, accessibility tools, and more. The project aims to provide seamless human-computer interaction through precise and efficient gesture recognition.
 
 Features
